@@ -5,4 +5,6 @@
 此次实验是本学期我们学的数据挖掘课程的最后一个综合实验的选题 1。 \
 使用`MATLAB`完成。
 
+数据集来源： http://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases 
+
 详情见实验报告`Report`。
